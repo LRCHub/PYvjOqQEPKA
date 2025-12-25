@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "エメラルド",
+  "base_artist": "back number",
+  "createdAt": "2025-12-25T02:45:55.757740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_エメラルド_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_エメラルド_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/03_エメラルド_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "Toki, Asako",
+      "has_synced": true,
+      "path": "select/04_エメラルド_Toki,_Asako.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_エメラルド_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "Asako Toki",
+      "has_synced": true,
+      "path": "select/06_エメラルド_Asako_Toki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "涼しげなカクテル～エメラルド・ミスト～",
+      "artist": "豚乙女-BUTAOTOME-",
+      "has_synced": false,
+      "path": "select/07_涼しげなカクテル~エメラルド・ミスト~_豚乙女-BUTAOTOME-.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/08_エメラルド_カネコアヤノ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/09_エメラルド_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "THE NOVEMBERS",
+      "has_synced": false,
+      "path": "select/10_エメラルド_THE_NOVEMBERS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エメラルド - Emerald",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/11_エメラルド_-_Emerald_back_number.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/12_エメラルド_菅田将暉.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "涼しげなカクテル～エメラルド・ミスト～",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/13_涼しげなカクテル~エメラルド・ミスト~_豚乙女.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エメラルド",
+      "artist": "菅田 将暉",
+      "has_synced": false,
+      "path": "select/14_エメラルド_菅田_将暉.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エメラルド",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_エメラルド_back_number.txt"
+    }
+  ]
+}
